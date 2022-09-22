@@ -1,0 +1,31 @@
+.bg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.lists-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
